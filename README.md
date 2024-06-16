@@ -1,2 +1,2 @@
 # abenhaim-quality-insurance
-My personal software quality assurance document
+My personal software quality insurance document
