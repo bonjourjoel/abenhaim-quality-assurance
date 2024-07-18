@@ -1,4 +1,4 @@
-# abenhaim-quality-insurance
-My personal software quality insurance document.
+# abenhaim-quality-assurance
+My personal software quality assurance document.
 
 License: Creative commons.
